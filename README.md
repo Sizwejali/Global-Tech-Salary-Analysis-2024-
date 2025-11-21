@@ -106,4 +106,4 @@ Build an API-connected real-time salary tracker
 For project collaboration or CV/consultation requests:
 Sizwe Jali
 Data Business Analyst
-Email / LinkedIn / Portfolio links here.
+sizwegladman.jali@gmail.com
